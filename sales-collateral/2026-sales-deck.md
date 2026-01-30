@@ -3,6 +3,18 @@
 
 ---
 
+# When food service works, teams feel it.
+17+ years supporting demanding workdays.
+We design and operate food service that fits the real rhythms of work,
+supporting energy, focus, and well‑being through consistent quality
+and thoughtful innovation.
+
+By staying close to how teams actually use the service,
+we make food feel seamless, dependable, and genuinely supportive of
+everyday work.
+
+---
+
 # The shift
 Work changed. Food didn’t.
 
@@ -59,22 +71,26 @@ Confidence beats features.
 
 ---
 
-# Why change happens
-Decisions move when the risk of staying
-becomes greater than the risk of switching.
+# The tensions we resolve
+- Experience vs. risk
+- Flexibility vs. control
+- Cost vs. value
+- Central governance vs. local reality
+- Speed vs. safety
 
-Common triggers:
-- Incident risk
-- Accumulated friction
-- Organizational change
-- Leadership change
+We collapse the trade‑offs by design.
 
 ---
 
-# Zitrone, in one line
+# What Zitrone is
 We design and run the food experience of modern work.
 
-What the system delivers:
+Not a vendor.
+A system.
+
+---
+
+# What the system delivers
 - Food people actually want to eat
 - Experiences people look forward to
 - Operations that hold under pressure
@@ -86,7 +102,7 @@ What the system delivers:
 # Value pillars
 1) Earned experience (17+ years)
 2) Pace and relevance
-3) Everyday care
+3) Care without pressure
 4) Wellness without performance
 5) Operational confidence
 6) Fit to reality
@@ -98,7 +114,7 @@ What the system delivers:
 # Services as expressions
 One system, many expressions.
 
-- Daily Foundation (on-site / off-site kitchens)
+- Daily Foundation (on‑site / off‑site kitchens)
 - Everyday Pause (cafés)
 - Food in Motion (service carts)
 - Always Available (pantry)
@@ -110,18 +126,6 @@ The system adapts.
 
 ---
 
-# How decisions move
-Buyers move when confidence exceeds fear.
-
-Zitrone guides:
-1) Risk reframing
-2) Option compression
-3) Confidence building
-4) Commitment
-5) Post-decision validation
-
----
-
 # Transition is a product
 The highest anxiety is between “yes” and “it works.”
 
@@ -129,7 +133,16 @@ We treat transition as core:
 - Clear ownership
 - Visible progress
 - Early wins
-- Over-communication
+- Over‑communication
+
+---
+
+# Leadership that works alongside the team
+Showing up every day, sleeves rolled up.
+
+Founder‑led. Hands‑on.
+In kitchens. In decisions.
+Close to the work.
 
 ---
 
@@ -138,7 +151,7 @@ Signals that make trust feel reasonable:
 
 - 17+ years in real environments
 - Trusted by demanding organizations
-- Founder-led, close to operations
+- Founder‑led, close to operations
 - Systems built for change
 - Safety that becomes invisible
 - Human accountability at scale
@@ -150,27 +163,6 @@ Uber · UFC · Stripe · AT&T · Nike · Prologis · Capital One · Pinterest ·
 
 > “Zitrone has been a valued and highly professional partner for our team in Mexico City since 2018.”
 > — Norell Van Krieken, Food Program Manager, Americas (Uber)
-
----
-
-# What success feels like
-- Food stops being a topic
-- Complaints fade
-- Teams stop managing it
-- Leaders stop worrying
-
-Quietly. Consistently. Every day.
-
----
-
-# The decision, made safe
-Zitrone makes the choice feel:
-
-- Obvious
-- Defensible
-- Low drama
-
-Food that keeps pace.
 
 ---
 
@@ -186,3 +178,14 @@ Clear standards, ownership, and escalation paths—built in.
 
 **How fast can we launch?**
 We align scope first, then build a transition plan with early wins.
+
+---
+
+# The decision, made safe
+Zitrone makes the choice feel:
+
+- Obvious
+- Defensible
+- Low drama
+
+Food that keeps pace.
